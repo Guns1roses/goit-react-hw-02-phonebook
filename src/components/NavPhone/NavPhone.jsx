@@ -1,4 +1,4 @@
-import { Button, Wrapper, Title } from './NavBar.styled';
+import { Button, Wrapper, Title } from './NavPhone.styled';
 import { RiUserSearchLine, RiUserAddLine } from 'react-icons/ri';
 
 const NavBar = ({ toggle, isOpenFilter, isOpenForm }) => {
